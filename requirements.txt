@@ -1,0 +1,8 @@
+streamlit>=1.25
+pandas>=2.0
+numpy
+plotly
+requests
+scikit-learn
+python-dateutil
+joblib
